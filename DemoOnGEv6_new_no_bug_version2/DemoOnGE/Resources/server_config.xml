@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serverlist>
+    <server>
+        <IP>170.140.119.69</IP>
+        <port>27015</port>
+        <name>node on Tokyo</name>
+    </server>
+    <server>
+        <IP>170.140.119.69</IP>
+        <port>27015</port>
+        <name>America</name>
+    </server>
+    <server>
+        <IP>127.0.0.1</IP>
+        <port>27015</port>
+        <name>China</name>
+    </server>
+</serverlist>

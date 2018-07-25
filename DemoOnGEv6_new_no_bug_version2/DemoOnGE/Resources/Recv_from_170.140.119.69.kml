@@ -1,0 +1,89 @@
+<Document>
+<Style id="color_line"><LineStyle><color>ff0000ff</color><width>7</width></LineStyle></Style>
+<Style id="icon_style"><IconStyle><scale>1</scale><Icon><href>juanjo_Router.png</href></Icon></IconStyle></Style>
+<Placemark><styleUrl>#icon_style</styleUrl><TimeSpan><begin>2009-04-30T23:00:00Z</begin></TimeSpan></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T01:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 -84.336040,33.780380,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T01:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T02:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 -84.336040,33.780380,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T02:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T03:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 -84.387980,33.749000,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T03:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T04:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.388,33.749,40000 -96.8903,34.9458,40000 -109.393,36.1426,40000 -121.895,37.3394,40000 -121.894960,37.339390,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T04:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.387980,33.749000,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T05:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-121.894960,37.339390,40000 -121.894960,37.339390,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T05:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-121.894960,37.339390,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T06:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-121.895,37.3394,40000 -108.804,37.2148,40000 -95.7129,37.0902,40000 -95.712891,37.090240,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T06:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-121.894960,37.339390,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T07:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-95.7129,37.0902,40000 -80.7837,36.0921,40000 -65.8545,35.094,40000 -50.9253,34.0959,40000 -35.9961,33.0978,40000 -21.0669,32.0996,40000 -6.13773,31.1015,40000 8.79147,30.1034,40000 23.7207,29.1053,40000 38.6499,28.1072,40000 53.5791,27.109,40000 68.5082,26.1109,40000 83.4374,25.1128,40000 98.3666,24.1147,40000 113.296,23.1165,40000 113.295827,23.116548,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T07:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-95.712891,37.090240,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T08:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>113.295827,23.116548,40000 113.295827,23.116548,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T08:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>113.295827,23.116548,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T09:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>113.296,23.1165,40000 104.059,30.6762,40000 104.058986,30.676235,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T09:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>113.295827,23.116548,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T10:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>104.058986,30.676235,40000 104.058986,30.676235,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T10:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>104.058986,30.676235,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T11:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>104.058986,30.676235,40000 104.058986,30.676235,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T11:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>104.058986,30.676235,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T11:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>104.058986,30.676235,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T01:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 -84.336040,33.780380,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T01:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#color_line</styleUrl>
+	<TimeSpan><begin>2009-05-01T02:00:00Z</begin></TimeSpan>
+<LineString><extrude>0</extrude><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 -84.336040,33.780380,40000 </coordinates></LineString></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T02:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 </coordinates></Point></Placemark>
+<Placemark><styleUrl>#icon_style</styleUrl>
+	<TimeSpan><begin>2009-05-01T02:00:00Z</begin></TimeSpan>
+	<Point><altitudeMode>relativeToGround</altitudeMode><coordinates>-84.336040,33.780380,40000 </coordinates></Point></Placemark>
+</Document>

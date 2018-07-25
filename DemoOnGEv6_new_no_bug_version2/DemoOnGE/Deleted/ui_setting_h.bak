@@ -1,0 +1,50 @@
+/********************************************************************************
+** Form generated from reading ui file 'setting.ui'
+**
+** Created: Mon Jan 8 15:23:22 2018
+**      by: Qt User Interface Compiler version 4.4.0
+**
+** WARNING! All changes made in this file will be lost when recompiling ui file!
+********************************************************************************/
+
+#ifndef UI_SETTING_H
+#define UI_SETTING_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_SettingClass
+{
+public:
+
+    void setupUi(QWidget *SettingClass)
+    {
+    if (SettingClass->objectName().isEmpty())
+        SettingClass->setObjectName(QString::fromUtf8("SettingClass"));
+    SettingClass->resize(714, 489);
+
+    retranslateUi(SettingClass);
+
+    QMetaObject::connectSlotsByName(SettingClass);
+    } // setupUi
+
+    void retranslateUi(QWidget *SettingClass)
+    {
+    SettingClass->setWindowTitle(QApplication::translate("SettingClass", "\346\234\215\345\212\241\345\231\250\351\205\215\347\275\256", 0, QApplication::UnicodeUTF8));
+    Q_UNUSED(SettingClass);
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class SettingClass: public Ui_SettingClass {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_SETTING_H

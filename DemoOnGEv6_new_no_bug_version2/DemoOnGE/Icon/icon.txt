@@ -1,0 +1,16 @@
+<Style id="icon_style">
+  <IconStyle>
+        <Icon>
+　　　　　　　<href>juanjo_Router.png</href>
+　　　　</Icon>
+  </IconStyle>
+</Style>
+
+ <Placemark>
+    <name>廓偏兆</name>
+    <description> </description>
+	<styleUrl>#icon_style</styleUrl>
+    <Point>
+      <coordinates>xx,xx,0</coordinates>
+    </Point>
+ </Placemark>
